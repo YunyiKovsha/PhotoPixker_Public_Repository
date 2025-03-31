@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>PhotoPixker</title>
+    <link rel="stylesheet" href="assets/styles.css">
+	<link rel="icon" type="image/png" href="assets/images/favicon.png">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>PhotoPixker</h1>
+    <h2 id="gallery-name"></h2>
+    <div id="gallery">
+		<p>Images loading...</p>
+	</div>
+	<div id="image-viewer" class="hidden">
+		<div class="viewer-container">
+			<img id="modal-image">
+			<div class="viewer-title">
+				<p class="name"></p>
+				<p class="index"></p>
+			</div>
+			<div class="viewer-header">
+				<span class="close-btn"></span>
+				<span class="external-btn"></span>
+			</div>
+			<div class="viewer-navigator">
+				<button class="prev-btn"></button>
+				<button class="next-btn"></button>
+			</div>
+			<div class="viewer-footer">
+				<button class="download-btn"></button>
+				<button class="zoom-out-btn"></button>
+				<span id="zoom-info"></span>
+				<button class="zoom-in-btn"></button>
+				<button class="reset-view-btn"></button>
+			</div>
+			<div class="viewer-info">
+				<button class="note"></button>
+				<button class="select"></button>
+			</div>
+		</div>
+	</div>
+	<div id="note-popup" class="hidden"></div>
+	<div id="bottom-bar" class="temporary-hidden">
+		<button class="clipboard-btn"></button>
+		<span class="select-info"></span>
+		<button class="request-btn"></button>
+	</div>
+	<div id="noti-center"></div>
+	<p id="copyright">© 2025 PhotoPixker. Licensed under the MIT License.</p>
+    <script type="module" src="assets/script.js"></script>
+</body>
+</html>
