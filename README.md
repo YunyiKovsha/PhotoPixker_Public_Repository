@@ -1,16 +1,27 @@
-## 📸 PhotoPixker – Streamlining the Photo Selection Workflow for Photographers and Clients
+## 📸 PhotoPixker – Streamlining the Photo Delivery Workflow for Photographers
 
-## 📌 Information
+PhotoPixker – A faster, easier way for customers to select photos.  
+Intuitive, user-friendly interface, easy to use.  
+Make your photography service more professional and systematic.
+
+🌐 [Try now!](https://photopixker.vercel.app/)
+
+## ℹ️ About
 
 This project was created during free time, using HTML, CSS, and JavaScript.  
-**Under the great support of ChatGPT.**
+**Under the great support of ChatGPT.**  
+If you find this project interesting or useful, please give a star ⭐ I would appreciate it 😊
+
+**Attribution is appreciated but not required** 🥺🥺🥺
 
 ## 📝 Features
 
 - **Pixk**: Simply tap on the heart.
 - **Note**: Note everything you want.
 - **Request**: Copy to clipboard or send request directly to photographer's personal [Google Sheet](https://docs.google.com/spreadsheets/d/1phCyu-5Qxpb1XATBGt9LcEHnd0N3M0uqQi3Z0Xel92M/edit).
-- Simple built-in photo viewer, with basic functions such as zoom/pan, navigate between photos.
+
+Simple built-in photo viewer, with basic functions such as zoom/pan, navigate between photos.  
+Supports all image and raw formats that Google Drive can view.
 
 ## 🚀 Getting Started
 
@@ -22,7 +33,7 @@ This project was created during free time, using HTML, CSS, and JavaScript.
 
 ## 🤝 Thanks for these resources
 
-- Font by [Google Fonts](https://fonts.google.com/).
+- Font by [Google Fonts](https://github.com/google/fonts).
 - Icon by [Tabler Icons](https://github.com/tabler/tabler-icons).
 - Photo by [Kevin Charit](https://unsplash.com/@kevin_charit) on [Unsplash](https://unsplash.com/photos/a-woman-in-an-orange-kimono-walking-down-a-street-82KlPETr-go).
 
