@@ -34,7 +34,7 @@ Supports all image and raw formats that Google Drive can view.
 ## 🤝 Thanks for these resources
 
 - Font by [Google Fonts](https://github.com/google/fonts).
-- Icon by [Tabler Icons](https://github.com/tabler/tabler-icons).
+- Icons by [Tabler Icons](https://github.com/tabler/tabler-icons).
 - Photo by [Kevin Charit](https://unsplash.com/@kevin_charit) on [Unsplash](https://unsplash.com/photos/a-woman-in-an-orange-kimono-walking-down-a-street-82KlPETr-go).
 
 ## 📄 License
